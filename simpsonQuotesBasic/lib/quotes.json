@@ -1,0 +1,11 @@
+[{
+    "name": "Bart Simpson",
+    "quote": "Eat my shorts.",
+    "imagePath": "assets/images/bart.png"
+},
+{
+    "name": "Homer Simpson",
+    "quote": "Stupidity got us into this mess, and stupidity will get us out.",
+    "imagePath": "assets/images/homer.jpg"
+}
+]
